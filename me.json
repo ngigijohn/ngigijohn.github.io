@@ -51,7 +51,7 @@
         "description": "A money management application that enables you to keep track of the money you spend.",
         "category": "Progressive web application",
         "tools/languages": ["HTML5", "CSS", "javaScript", "Vue js"],
-        "link": "https://www.cash-flow.tk",
+        "link": "https://www.cashflow1.netlify.app",
         "thumbnail": "./thumbnails/cash-flow-thumbnail.png"
     }, {
         "title": "Chill Beats",
@@ -63,14 +63,14 @@
     }, {
         "title": "Weather App",
         "description": "Daily weather checking application",
-        "link": "https://www.freeweather.tk",
+        "link": "https://www.freeweathernet.netlify.app",
         "category": "Progressive web app /Website",
         "tools": ["HTML5", "CSS", "javaScript", "React", "Open weather API"],
         "thumbnail": "./thumbnails/weather-app-thumbnail.png"
     }, {
         "title": "Javascript Clockface",
         "description": "A website that uses 'Date()' class to show time and API calls to display daily motivational quotes",
-        "link": "https://www.tickertimer.tk",
+        "link": "https://www.tickertimer.netlify.app",
         "category": "Website",
         "tools": ["HTML5", "CSS", "javaScript", "quotes API"],
         "thumbnail": "./thumbnails/clock-face-thumbnail.png"
@@ -79,18 +79,7 @@
             "title": "Web Development",
             "description": "I deliver high performance websites, Web apps to help improve your internet prescence. These range form E-Commerce/ online shops, blogs, personal/business portfolio website, social platforms and file sharing/ hosting platforms. Our websites are custom built and are tailored to meet your specific needs and requirements.",
             "icon": "./icons/web-development-icon-circle.png"
-        },
-        {
-            "title": "Search Engine Optimisation",
-            "description": "I will improve your ranking with an aim of getting you on the first page of a google search. This will increase the amount of traffic on your website which leads to having more clients since more poeple get to know about your business.",
-            "icon": "./icons/search-engine-optimisation-icon-circle.png"
-        },
-        {
-            "title": "Graphic Design",
-            "description": "I design you brand identity by making expressive and memorable logos, illustrations and posters that your clients can identify with. ",
-            "icon": "./icons/graphic-design-icon-circle.png"
-        },
-        {
+        },{
             "title": "UX and UI design",
             "description": "A good design translates to an even better wesbite. I engage with clients through out the design process to deliver interactive user intefaces that clients can use and critic. The design shows how the software will look like on different screen sizes, the colors, fonts and icon being used in the user interface and animations when the user iteracts with the software.",
             "icon": "./icons/UX-UI-design-icon-circle.png"
